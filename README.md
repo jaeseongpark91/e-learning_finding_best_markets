@@ -10,4 +10,4 @@ This project requires Python 3 and following Python library.
 - Seaborn
 
 ### Data
-This project is part of Dataquest.io guided project. The dataset is provided by Dataquest.io.
+This project is part of Dataquest.io guided project. The dataset is provided by freeCodeCamp ('freeCodeCamp's 2017 New Coder Survey')
