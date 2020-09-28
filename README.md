@@ -1,5 +1,5 @@
 ## Finding the Best Markets to Advertise In
-An E-learning company that offers courses on programming is considering to invest some money in advertisement. The goal of this project is to figure out the two best markets to advertise in. In this project, we analyze survey data from the new coders and conclude two best countries to advertise.
+An E-learning company that offers programming courses is considering to invest some money in advertisement in different countries. The goal of this project is to figure out new markets to advertise. In this project, we analyze survey data from the new coders and conclude two best countries to advertise.
 
 The codes are written in the Jupyter notebook **'finding_best_market_to_advertise.ipynb'**. Please refer to this file. 
 
